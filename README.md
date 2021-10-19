@@ -6,7 +6,9 @@ I am a creative person. Mainly good at programming but in my spare I love making
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
+- 🔭 I’m currently working on my github profile. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oratile-mogorosi/)  
+
 

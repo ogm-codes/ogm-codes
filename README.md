@@ -1,7 +1,7 @@
-<h1 align="center">Hello 😎 I'm Oratile</h1>
+<h1 align="center">Hello 😎 I'm Oratile </h1>
 <h3 align="center">Im a Software engineer | Cloud practitioner!</h3>
 
-- 🌱 I’m currently learning **ALX_Software Engineering.**
+- 🌱 I’m currently learning at **ALX_Software Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
